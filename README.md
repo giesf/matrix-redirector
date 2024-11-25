@@ -1,4 +1,9 @@
+# matrix-redirector
 
+A simple service to open a direct messaging chat with a given user  on a given homeserver.
+Alternative to https://matrix.to/ with a more streamlined user journey.
+
+## How-To Use
 This project uses bun instead of nodejs because it is easier to use
 
 Find out more on [bun.sh](https://bun.sh)
